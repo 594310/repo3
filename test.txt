@@ -2,3 +2,4 @@
 654321
 test
 測試
+fetch test
